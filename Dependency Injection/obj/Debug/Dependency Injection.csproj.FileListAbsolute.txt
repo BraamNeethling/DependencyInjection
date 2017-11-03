@@ -1,0 +1,49 @@
+C:\Users\abraham\Documents\Visual Studio 2017\Projects\Dependency Injection\Dependency Injection\obj\Debug\Dependency Injection.csprojResolveAssemblyReference.cache
+C:\Users\abraham\Documents\Visual Studio 2017\Projects\Dependency Injection\Dependency Injection\obj\Debug\Dependency Injection.csproj.CoreCompileInputs.cache
+C:\Users\abraham\Documents\Visual Studio 2017\Projects\Dependency Injection\Dependency Injection\bin\ApplicationInsights.config
+C:\Users\abraham\Documents\Visual Studio 2017\Projects\Dependency Injection\Dependency Injection\bin\Dependency Injection.dll.config
+C:\Users\abraham\Documents\Visual Studio 2017\Projects\Dependency Injection\Dependency Injection\bin\Dependency Injection.dll
+C:\Users\abraham\Documents\Visual Studio 2017\Projects\Dependency Injection\Dependency Injection\bin\Dependency Injection.pdb
+C:\Users\abraham\Documents\Visual Studio 2017\Projects\Dependency Injection\Dependency Injection\bin\Antlr3.Runtime.dll
+C:\Users\abraham\Documents\Visual Studio 2017\Projects\Dependency Injection\Dependency Injection\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\abraham\Documents\Visual Studio 2017\Projects\Dependency Injection\Dependency Injection\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\abraham\Documents\Visual Studio 2017\Projects\Dependency Injection\Dependency Injection\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\abraham\Documents\Visual Studio 2017\Projects\Dependency Injection\Dependency Injection\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\abraham\Documents\Visual Studio 2017\Projects\Dependency Injection\Dependency Injection\bin\Microsoft.AI.Web.dll
+C:\Users\abraham\Documents\Visual Studio 2017\Projects\Dependency Injection\Dependency Injection\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\abraham\Documents\Visual Studio 2017\Projects\Dependency Injection\Dependency Injection\bin\Microsoft.ApplicationInsights.dll
+C:\Users\abraham\Documents\Visual Studio 2017\Projects\Dependency Injection\Dependency Injection\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\abraham\Documents\Visual Studio 2017\Projects\Dependency Injection\Dependency Injection\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\abraham\Documents\Visual Studio 2017\Projects\Dependency Injection\Dependency Injection\bin\Newtonsoft.Json.dll
+C:\Users\abraham\Documents\Visual Studio 2017\Projects\Dependency Injection\Dependency Injection\bin\SimpleInjector.dll
+C:\Users\abraham\Documents\Visual Studio 2017\Projects\Dependency Injection\Dependency Injection\bin\SimpleInjector.Integration.Web.dll
+C:\Users\abraham\Documents\Visual Studio 2017\Projects\Dependency Injection\Dependency Injection\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\abraham\Documents\Visual Studio 2017\Projects\Dependency Injection\Dependency Injection\bin\System.Web.Helpers.dll
+C:\Users\abraham\Documents\Visual Studio 2017\Projects\Dependency Injection\Dependency Injection\bin\System.Web.Mvc.dll
+C:\Users\abraham\Documents\Visual Studio 2017\Projects\Dependency Injection\Dependency Injection\bin\System.Web.Optimization.dll
+C:\Users\abraham\Documents\Visual Studio 2017\Projects\Dependency Injection\Dependency Injection\bin\System.Web.Razor.dll
+C:\Users\abraham\Documents\Visual Studio 2017\Projects\Dependency Injection\Dependency Injection\bin\System.Web.WebPages.Deployment.dll
+C:\Users\abraham\Documents\Visual Studio 2017\Projects\Dependency Injection\Dependency Injection\bin\System.Web.WebPages.dll
+C:\Users\abraham\Documents\Visual Studio 2017\Projects\Dependency Injection\Dependency Injection\bin\System.Web.WebPages.Razor.dll
+C:\Users\abraham\Documents\Visual Studio 2017\Projects\Dependency Injection\Dependency Injection\bin\WebActivator.dll
+C:\Users\abraham\Documents\Visual Studio 2017\Projects\Dependency Injection\Dependency Injection\bin\WebGrease.dll
+C:\Users\abraham\Documents\Visual Studio 2017\Projects\Dependency Injection\Dependency Injection\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\abraham\Documents\Visual Studio 2017\Projects\Dependency Injection\Dependency Injection\bin\SimpleInjector.xml
+C:\Users\abraham\Documents\Visual Studio 2017\Projects\Dependency Injection\Dependency Injection\bin\SimpleInjector.Integration.Web.xml
+C:\Users\abraham\Documents\Visual Studio 2017\Projects\Dependency Injection\Dependency Injection\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\abraham\Documents\Visual Studio 2017\Projects\Dependency Injection\Dependency Injection\bin\System.Web.Helpers.xml
+C:\Users\abraham\Documents\Visual Studio 2017\Projects\Dependency Injection\Dependency Injection\bin\System.Web.Mvc.xml
+C:\Users\abraham\Documents\Visual Studio 2017\Projects\Dependency Injection\Dependency Injection\bin\System.Web.Optimization.xml
+C:\Users\abraham\Documents\Visual Studio 2017\Projects\Dependency Injection\Dependency Injection\bin\System.Web.Razor.xml
+C:\Users\abraham\Documents\Visual Studio 2017\Projects\Dependency Injection\Dependency Injection\bin\System.Web.WebPages.xml
+C:\Users\abraham\Documents\Visual Studio 2017\Projects\Dependency Injection\Dependency Injection\bin\System.Web.WebPages.Deployment.xml
+C:\Users\abraham\Documents\Visual Studio 2017\Projects\Dependency Injection\Dependency Injection\bin\System.Web.WebPages.Razor.xml
+C:\Users\abraham\Documents\Visual Studio 2017\Projects\Dependency Injection\Dependency Injection\bin\Antlr3.Runtime.pdb
+C:\Users\abraham\Documents\Visual Studio 2017\Projects\Dependency Injection\Dependency Injection\bin\Newtonsoft.Json.xml
+C:\Users\abraham\Documents\Visual Studio 2017\Projects\Dependency Injection\Dependency Injection\bin\Microsoft.ApplicationInsights.xml
+C:\Users\abraham\Documents\Visual Studio 2017\Projects\Dependency Injection\Dependency Injection\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\abraham\Documents\Visual Studio 2017\Projects\Dependency Injection\Dependency Injection\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\abraham\Documents\Visual Studio 2017\Projects\Dependency Injection\Dependency Injection\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\abraham\Documents\Visual Studio 2017\Projects\Dependency Injection\Dependency Injection\bin\Microsoft.AI.Web.xml
+C:\Users\abraham\Documents\Visual Studio 2017\Projects\Dependency Injection\Dependency Injection\obj\Debug\Dependency Injection.dll
+C:\Users\abraham\Documents\Visual Studio 2017\Projects\Dependency Injection\Dependency Injection\obj\Debug\Dependency Injection.pdb
